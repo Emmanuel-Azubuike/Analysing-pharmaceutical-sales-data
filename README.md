@@ -35,7 +35,7 @@ Pharmacy operations face two primary financial and supply chain hurdles:
 - **Language:** Python
 - **Data Processing & EDA:** Pandas, NumPy
 - **Visualization:** Matplotlib / Seaborn
-- **Environment:** Jupyter Notebook / Visual Studio Code
+- **Environment:** Jupyter Notebook
 
 ---
 
