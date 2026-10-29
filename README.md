@@ -1,6 +1,5 @@
 # Pharmaceutical Sales & Inventory Exploratory Data Analysis (EDA)
 
-[![GitHub Code](https://img.shields.io/badge/GitHub-View%20Repository-black?style=for-the-badge)](https://github.com/Emmanuel-Azubuike/Analysing-pharmaceutical-sales-data)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://emmanuel-azubuike.lovable.app)
 
 ## Executive Summary
