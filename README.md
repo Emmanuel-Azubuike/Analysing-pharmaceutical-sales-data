@@ -1,6 +1,6 @@
 # Pharmaceutical Sales & Inventory Exploratory Data Analysis (EDA)
 
-[!View My Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://emmanuel-azubuike.lovable.app)
+[!Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://emmanuel-azubuike.lovable.app)
 
 ## Executive Summary
 This project bridges hands-on pharmacy operations intuition with data analytics. Analyzing **2,106 days** of daily pharmaceutical sales data across **8 major therapeutic categories (ATC classification)**, this exploratory data analysis (EDA) uncovers critical seasonal demand spikes and highlights key inventory holding risks to support smarter stocking decisions.
