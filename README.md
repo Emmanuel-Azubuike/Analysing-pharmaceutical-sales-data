@@ -40,4 +40,4 @@ Pharmacy operations face two primary financial and supply chain hurdles:
 ---
 
 ## Commercial & Operational Outcome
-A practical data story that translates floor-level pharmacy intuition into quantifiable, risk-aware inventory replenishment rules.
+This project turns everyday pharmacy experience into clear, simple rules using numbers so the store always knows exactly what to reorder without wasting money.
